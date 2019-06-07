@@ -1,5 +1,9 @@
 package com.tanmay.practice;
 
+/**
+ * @author PandeyTanmay
+ * @author tkpandey@hotmail.com
+ */
 public class LongestPalindromeInString {
 
     public static void main(String[] args) {

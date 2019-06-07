@@ -3,6 +3,10 @@ package com.tanmay.practice;
 import java.lang.String;
 import java.util.HashMap;
 
+/**
+ * @author PandeyTanmay
+ * @author tkpandey@hotmail.com
+ */
 class JumpToSourceDemo {
 
     public static boolean checkParam(String checkKey, Params parameters){

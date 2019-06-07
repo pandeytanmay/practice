@@ -3,6 +3,10 @@ package com.tanmay.practice;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * @author PandeyTanmay
+ * @author tkpandey@hotmail.com
+ */
 public class StringPermutations {
     public static Set<String> permutationFinder(String str) {
         Set<String> perm = new HashSet<String>();

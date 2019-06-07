@@ -6,6 +6,10 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/**
+ * @author PandeyTanmay
+ * @author tkpandey@hotmail.com
+ */
 class Refactorings {
     public static final String TXT = "txt";
 

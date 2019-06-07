@@ -1,5 +1,9 @@
 package com.tanmay.practice;
 
+/**
+ * @author PandeyTanmay
+ * @author tkpandey@hotmail.com
+ */
 public class MyRunner implements Runnable {
     @Override public void run() {
         int[] test = new int[]{1};
